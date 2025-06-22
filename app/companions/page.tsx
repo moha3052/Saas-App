@@ -1,6 +1,6 @@
 const CompanionsLibrary = () => {
     return (
-        <div></div>
+        <div>CompanionsLibrary</div>
     )
 }
 export default CompanionsLibrary
